@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Isac Martins</h1>
-<h3 align="center">**A developing developer at Computer Science**</h3>
+<h3 align="center">A developing developer studying Computer Science</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=medalha01&label=Profile%20views&color=0e75b6&style=flat" alt="medalha01" /> </p>
 
