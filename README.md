@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Rust**
 
-- 👨‍💻 My studies are located at [https://github.com/medalha01](https://github.com/medalha01)
+- 👨‍💻 My studies are located at [https://github.com/medalha01](https://github.com/medalha01) and at [https://github.com/martinsty](https://github.com/martinsty)
 
 - 📫 My mailbox is **isacmartins.223@gmail.com**
 
